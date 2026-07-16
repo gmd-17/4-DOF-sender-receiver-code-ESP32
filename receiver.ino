@@ -1,3 +1,4 @@
+// Receiver code
 #include <esp_now.h>
 #include <WiFi.h>
 #include <ESP32Servo.h> 
