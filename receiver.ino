@@ -152,6 +152,7 @@ void loop() {
 }
 
 
+// Use the code below to find the MAC Address of the receiver board
 // #include <WiFi.h>
 
 // void setup() {
